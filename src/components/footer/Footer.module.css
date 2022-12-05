@@ -1,0 +1,39 @@
+.email_input_style{
+    padding: 13px;
+    height: 46px;
+    width: 226px;
+    background: #FFFFFF;
+    border: 1px solid #D5DAE1;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    outline: none;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2A3342;
+    margin-right: 20px;
+}
+
+.email_input_style::placeholder{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+color: #2A3342;
+}
+.email_btn{
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #F0FDF4;
+width: 117px;
+height: 46px;
+background: #22C55E;
+box-shadow: 0px 1px 2px rgba(105, 81, 255, 0.05);
+border-radius: 6px;
+}
